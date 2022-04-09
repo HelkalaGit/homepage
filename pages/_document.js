@@ -4,7 +4,7 @@ import theme from '../lib/theme'
 
 export default class Document extends NextDocument {
   render() {
-    return(
+    return (
       <Html lang="en">
         <Head />
         <body>
